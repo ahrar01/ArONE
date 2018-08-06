@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahrar.AYRAH.000\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\74a7a66b9e1fbc1eead825aad955fadb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="C:\Users\ahrar.AYRAH.000\Documents\Test\AR Projects\ArONE\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahrar.AYRAH.000\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\74a7a66b9e1fbc1eead825aad955fadb\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dc10c1b1e48196f12f0ebb5103ae4dc156ba9b2e">
+        <dex dex="C:\Users\ahrar.AYRAH.000\Documents\Test\AR Projects\ArONE\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahrar.AYRAH.000\Documents\Test\AR Projects\ArONE\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d338ae543f8396821f16365da0efcb3210041ecd">
+        <dex dex="C:\Users\ahrar.AYRAH.000\Documents\Test\AR Projects\ArONE\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahrar.AYRAH.000\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\74a7a66b9e1fbc1eead825aad955fadb\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.3"
+        sha1="31de12dfd4ff409d57dd52142cd5ebe1c1eee803">
+        <dex dex="C:\Users\ahrar.AYRAH.000\Documents\Test\AR Projects\ArONE\Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+
+</items>

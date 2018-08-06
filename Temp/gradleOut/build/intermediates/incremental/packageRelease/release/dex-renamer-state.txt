@@ -1,0 +1,4 @@
+#Mon Aug 06 12:40:34 IST 2018
+base.0=C\:\\Users\\ahrar.AYRAH.000\\Documents\\Test\\AR Projects\\ArONE\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
